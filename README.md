@@ -8,3 +8,6 @@ To run the project-->
 2) Main method is in BrickBreaker.java.
 3) Simply run this project in any IDE.
 4) After the game window pops up, use left and right arrow keys from keyboard to start the game.
+
+
+**************If the game doesn't start, try closing the game window and re run the code.*********** 
